@@ -4,4 +4,9 @@ Official source codes for the paper: EmoDubber: Towards High Quality and Emotion
 # Prepare
 
 
-# Train
+# Training (Dubbing Flow Matching)
+
+
+# Inference (Flow-based User Emotion Controlling)
+
+
