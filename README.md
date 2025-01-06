@@ -15,7 +15,7 @@
 # 
 
 # Environment
-1. Python >= 3.7
+1. Python >= 3.10
 2. Clone this repository:
 ```bash
 git clone https://github.com/GalaxyCong/DubFlow.git
@@ -55,7 +55,7 @@ python Inference_Wav_Setting3.py --config_path ./Configs/config.yml
 
 # Our Checkpoints
 
-
+Baidu Drive, Google Drive
 
 # License
 
