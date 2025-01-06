@@ -41,9 +41,21 @@ python train_flow.py --config_path ./Configs/config.yml
 ```
 
 # Inference (Flow-based User Emotion Controlling)
+```bash
+python Inference_Wav_Setting1.py --config_path ./Configs/config.yml
+```
 
+```bash
+python Inference_Wav_Setting2.py --config_path ./Configs/config.yml
+```
+
+```bash
+python Inference_Wav_Setting3.py --config_path ./Configs/config.yml
+```
 
 # Our Checkpoints
+
+
 
 # License
 
