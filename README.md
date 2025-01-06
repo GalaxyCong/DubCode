@@ -1,5 +1,16 @@
-# Source Codes
-Official source codes for the paper: [EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing](https://arxiv.org/pdf/2412.08988). 
+<p align="center">
+  <img src="assets/EmoDubber_Logo.png" width="30%" />
+</p>
+<div align="center">
+  <h3 class="papername"> 
+    EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing </h3>
+</div>
+
+
+
+
+
+[ArXiv](https://arxiv.org/pdf/2412.08988)|[Demo](https://galaxycong.github.io/EmoDub/) 
 
 # 
 
