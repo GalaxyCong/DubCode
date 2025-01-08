@@ -7,10 +7,12 @@
 </div>
 
 
+[![python](https://img.shields.io/badge/Python-3.10-blue)](https://github.com/GalaxyCong/DubFlow)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.06937-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2412.08988)
+[![code](https://img.shields.io/badge/Github-Code-keygen.svg?logo=github)](https://github.com/GalaxyCong/DubFlow)
+[![demo](https://img.shields.io/badge/GitHub-Demo%20page-orange.svg)](https://galaxycong.github.io/EmoDub/)
 
 
-
-[ArXiv](https://arxiv.org/pdf/2412.08988)|[Demo](https://galaxycong.github.io/EmoDub/) 
 
 # 
 
